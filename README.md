@@ -15,7 +15,7 @@ Masuk ke folder project terlebih dahulu dengan `cd crud-ci4` lalu jalankan serve
 
 ### Membuat migration table
 
-Jalankan `php spark migrate:create post` pada terminal, lalu buka file yang dibuat. Ubah isi `function up` menjadi:
+Jalankan `php spark migrate:create post` pada terminal, lalu buka file yang terbuat. Ubah isi `function up` menjadi:
 ```
 public function up()
 {
